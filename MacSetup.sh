@@ -4,11 +4,8 @@
 #| (_) \__ \>  <    | | | | \__ \ || (_| | | |
 # \___/|___/_/\_\   |_|_| |_|___/\__\__,_|_|_|
 
-
-echo "I  ❤️  🍎"
 echo "Mac OS Install Setup Script"
 echo "Original By Nina Zakharenko, Modified by Hamza Hegab"
-echo "Follow Nina on twitter! https://twitter.com/nnja"
 
 # Set the colours you can use
 black=$(tput setaf 0)
